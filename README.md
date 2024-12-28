@@ -1,4 +1,5 @@
 **📚 Introduction**
+
 Ce projet consiste à créer un système capable de détecter les spams dans les emails. En utilisant des techniques de machine learning et de traitement du langage naturel, nous classifions les emails comme étant soit ham (légitimes), soit spam (non désirés).
 
 **🧠 Project Overview**

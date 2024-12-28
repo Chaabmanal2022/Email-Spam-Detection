@@ -39,7 +39,6 @@ Prédiction de la catégorie d'un nouvel email.
 **🌐 Notebook Colab**
 
 Vous pouvez également exécuter ce projet sur Google Colab en cliquant sur le lien ci-dessous :
-
 [Notebook Colab](https://colab.research.google.com/drive/1Pcvbwx9eEBKAm-gUBNE-3NsASYh1ebt6?authuser=0#scrollTo=d9AMvzy0DoA8)
 
 **🖥️ Installation and Usage**

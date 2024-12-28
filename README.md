@@ -40,7 +40,7 @@ Prédiction de la catégorie d'un nouvel email.
 
 Vous pouvez également exécuter ce projet sur Google Colab en cliquant sur le lien ci-dessous :
 
-[Notebook Colab] - Email Spam Detection
+[Notebook Colab] - (Email Spam Detection)
 
 **🖥️ Installation and Usage**
 

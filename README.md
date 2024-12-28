@@ -38,7 +38,7 @@ Prédiction de la catégorie d'un nouvel email.
 
 **🖥️ Installation and Usage**
 
-Clonez ce dépôt : git clone https://github.com/Chaabmanal2022/Email-Spam-Detection.git
+- Clonez ce dépôt : git clone https://github.com/Chaabmanal2022/Email-Spam-Detection.git
 
-cd Email-Spam-Detection
+- Cd Email-Spam-Detection
 

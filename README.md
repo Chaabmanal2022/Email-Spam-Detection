@@ -3,9 +3,11 @@
 Ce projet consiste à créer un système capable de détecter les spams dans les emails. En utilisant des techniques de machine learning et de traitement du langage naturel, nous classifions les emails comme étant soit ham (légitimes), soit spam (non désirés).
 
 **🧠 Project Overview**
+
 Les emails sont devenus un moyen de communication essentiel, mais les spams restent un problème majeur. Ce projet vise à fournir une solution efficace en utilisant un modèle de machine learning entraîné sur un jeu de données contenant des exemples d'emails classifiés.
 
 **🚀 Features**
+
 Prétraitement des données textuelles pour éliminer le bruit.
 Extraction de caractéristiques textuelles à l'aide de TF-IDF.
 Classification des emails en utilisant la régression logistique.
@@ -13,6 +15,7 @@ Classification des emails en utilisant la régression logistique.
 Interface simple pour prédire si un email est un spam ou ham.
 
 **📁 Dataset**
+
 Le jeu de données utilisé contient deux colonnes principales :
 Message : Texte de l'email.
 Category : Classe de l'email (spam ou ham).
@@ -26,6 +29,7 @@ scikit-learn : Pour les algorithmes de machine learning et l'extraction des cara
 NumPy : Pour les opérations numériques.
 
 **⚙️ Workflow**
+
 Chargement et nettoyage des données (remplacement des valeurs manquantes par des chaînes vides).
 Transformation des textes en caractéristiques numériques à l'aide de TF-IDF.
 Entraînement d'un modèle de régression logistique.

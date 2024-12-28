@@ -35,3 +35,4 @@ Transformation des textes en caractéristiques numériques à l'aide de TF-IDF.
 Entraînement d'un modèle de régression logistique.
 Évaluation des performances du modèle sur les ensembles d'entraînement et de test.
 Prédiction de la catégorie d'un nouvel email.
+

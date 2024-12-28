@@ -20,7 +20,8 @@ Le jeu de données utilisé contient deux colonnes principales :
 Message : Texte de l'email.
 Category : Classe de l'email (spam ou ham).
 Ce fichier de données est inclus dans le projet sous le nom mail_data.csv.
-🛠️ Technologies Used
+
+**🛠️ Technologies Used**
 Le projet utilise les technologies suivantes :
 
 Python : Langage principal pour le développement.
